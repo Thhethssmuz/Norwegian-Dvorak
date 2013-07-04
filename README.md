@@ -1,6 +1,6 @@
 # Norwegian Dvorak
 
-![Norwegian Dvarak keyboard layout][1]
+![Norwegian Dvorak keyboard layout][1]
 
 A clone of the Linux default Norwegian dvorak keyboard layout for windows.
 
