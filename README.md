@@ -4,4 +4,4 @@
 
 A clone of the Linux default Norwegian dvorak keyboard layout for windows.
 
-[1]: https://raw.github.com/Thhethssmuz/Norwegian-Dvorak/master/Norwegian%20Dvorak.png
+[1]: ./Norwegian%20Dvorak.png
